@@ -1,0 +1,26 @@
+_repo: The-Forward-Pass-in-Football_33120
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Berry, Elmer
+    birthdate: 1879
+    gutenberg_agent_id: '36217'
+    url: http://www.gutenberg.org/2009/agents/36217
+description: ''
+gutenberg_issued: '2010-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33120'
+  lccn: '21019460'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Football'
+- !lcc 'GV'
+title: The Forward Pass in Football
+url: http://www.gutenberg.org/ebooks/33120
